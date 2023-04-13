@@ -1,0 +1,5 @@
+Package: go-nmap
+Version: 1.0
+Architecture: amd64
+Maintainer: test
+Description: nmap go实现
